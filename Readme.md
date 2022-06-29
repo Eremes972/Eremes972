@@ -1,12 +1,14 @@
-### Salut 👋
+### Bien le Bonjour 👋
 
 ## Futur développeur Full-Stack (Formation en cours..).
-- 🌱 J'aime apprendre de nouvelles technologies exotiques 🤣
-- ⚡ J'ai été militaire
+- 🌱 Petit curieux aimant apprendre de nouvelles technologies exotiques 🤣
+- ⚡ Actuellement militaire en reconversion dans le developpement web !
 
 ### Connect with me:
 
-[<img align="left" alt="leturkemuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Eremes972" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Eremes972 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Eremes972 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -27,8 +29,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caliendojulien&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Eremes972)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eremes972&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Eremes972)
 
-[website]: 
-[twitter]: 
+[website]: https://www.google.fr/
+[twitter]: https://www.google.fr/
 [linkedin]: https://linkedin.com/in/kémuelletur
