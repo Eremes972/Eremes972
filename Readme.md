@@ -1,6 +1,6 @@
 ### Bien le Bonjour 👋
 
-## Futur développeur Full-Stack (Formation en cours..).
+## Développeur Full-Stack (Formation en cours..).
 - ⚡ Actuellement militaire en reconversion dans le developpement web !
 
 ### Connect with me:
