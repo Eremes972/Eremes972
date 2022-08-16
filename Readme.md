@@ -35,4 +35,4 @@
 
 [website]: https://www.google.fr/
 [twitter]: https://www.google.fr/
-[linkedin]: https://linkedin.com/in/kémuel-letur
+[linkedin]: https://www.linkedin.com/in/k%C3%A9muel-letur-9334b2239/
